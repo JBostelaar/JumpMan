@@ -1,0 +1,9 @@
+{
+  "name": "jumpman",
+  "version": "0.1.0",
+  "description": "",
+  "author": "jornbostelaar",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
